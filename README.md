@@ -1,2 +1,2 @@
-# miniprogram-jianli
-小程序简历
+# jianli-miniprogram
+一个测试中的简历小程序
