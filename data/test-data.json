@@ -48,25 +48,25 @@
             "id": "1",
             "title": "作品1",
             "Url": "/pages/video/1",
-            "imgUrl": "/img/01.jpg"
+            "imgUrl": "/img/01.png"
         },
         {
             "id": "2",
             "title": "作品2",
             "Url": "/pages/video/2",
-            "imgUrl": "img/2.jpg"
+            "imgUrl": "img/2.png"
         },
         {
             "id": "3",
             "title": "作品3",
             "Url": "/pages/video/3",
-            "imgUrl": "img/3.jpg"
+            "imgUrl": "img/3.png"
         },
         {
             "id": "4",
             "title": "作品4",
             "Url": "/pages/video/4",
-            "imgUrl": "img/4.jpg"
+            "imgUrl": "img/4.png"
         }
     ],
 }
